@@ -81,12 +81,12 @@ Tek oyunculu Mirror's Edge için sıfırdan geliştirilen Multiplayer Modu. Oyun
 ### # İstatistikler
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Col-Vargas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Col-Vargas&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Col-Vargas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Col-Vargas&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Languages" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Col-Vargas&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Col-Vargas&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 ---
